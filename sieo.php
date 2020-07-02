@@ -7,9 +7,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="description"
-        content="springfield olympiads private limited we, at Springfield provide best olympiad solutions for students.Springfield Olympiads is one the few establishments which was founded with the aim of not only building competitive spirit but also focusing on developing healthy academic competition among children at the school level.The status-quo of Springfield Olympiads can be attributed  to driving academicians who felt a need to promote/advance science, arithmetic, computer training, English, General Knowledge, and other expert courses.Springfield Olympiads firmly believes that such Olympiads, also help the participants in gaining confidence for competition with the best around them, within the country and internationally and contribute to temperament development. Also when children experience a definite sense of accomplishment, it encourages them to try and do even higher as they advance in age.">
+        content="springfield olympiads private limited we, at Springfield provide best olympiad solutions for students.Springfield Olympiads is one the few establishments which was founded with the aim of not only building competitive spirit but also focusing on developing healthy academic competition among children at the school level.The status-quo of Springfield Olympiads can be attributed  to driving academicians who felt a need to promote/advance English, arithmetic, computer training, English, General Knowledge, and other expert courses.Springfield Olympiads firmly believes that such Olympiads, also help the participants in gaining confidence for competition with the best around them, within the country and internationally and contribute to temperament development. Also when children experience a definite sense of accomplishment, it encourages them to try and do even higher as they advance in age.">
     <meta name="keywords"
-        content="Olympiads, olympiad , Science olympiads , Math olympiads ,national olympiads, springfield olympiads, competitive olympiads,science, arithmetic, computer training, English, General Knowledge, and other expert courses  ">
+        content="Olympiads, olympiad , English olympiads , Math olympiads ,national olympiads, springfield olympiads, competitive olympiads,science, arithmetic, computer training, English, General Knowledge, and other expert courses  ">
     <meta name="author" content="nagacharan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css'
@@ -84,9 +84,6 @@
                 visibility: visible
             }
         }
-        #button{
-            font-color:white;
-        }
     </style><noscript>
         <style amp-boilerplate>
             body {
@@ -94,9 +91,6 @@
                 -moz-animation: none;
                 -ms-animation: none;
                 animation: none
-            }
-            b{
-                cursor:pointer;
             }
         </style>
     </noscript>
@@ -141,21 +135,21 @@
     <div id="header1"></div>
     <br /><br /><br /><br /><br /><br />
     <center>
-        <h1>Springfield International Science Olympiad (SISO)</h1>
+        <h1>Springfield International English Olympiad (SIEO)</h1>
     </center>
     <div class="container-fluid" id="olympiad">
         <div class="card">
             <div class="card-body">
                 <br />
-                <p> <i class="fas fa-graduation-cap"></i>The <span title="SISO">Springfield International Science
+                <p> <i class="fas fa-graduation-cap"></i>The <span title="SIEO">Springfield International English
                         Olympiad
-                        (SISO)</span>, a test of competence and knowledge in the subject of Science, is held based on
+                        (SIEO)</span>, a test of competence and knowledge in the subject of English, is held based on
                     syllabus prescribed by CBSE/ ICSE and the State Boards. </p>
                 <br />
                 <p><i class="fas fa-edit"></i><b>Registration of Students:</b> The <abbr
-                        title="Springfield International Science Olympiad">SISO</abbr> is open to the students of
+                        title="Springfield International English Olympiad">SIEO</abbr> is open to the students of
                     classes
-                    3 to 12. Students can register themselves on our website by clicking <a href="schoolstud.html"
+                    3 to 12. Students can register themselves on our website by clicking <a href=""
                         style="text-decoration:none;">here.</a></p>
                 <br />
                 <p> <i class="fas fa-shipping-fast"></i>Students should register through online mode only. Please check
@@ -163,7 +157,7 @@
                 </p>
                 <br />
 
-                <p><i class="fas fa-user-alt-slash"></i>For the year 2020, the SISO is scheduled for September 20. You
+                <p><i class="fas fa-user-alt-slash"></i>For the year 2020, the SIEO is scheduled for October 11. You
                     can view the schedules of all our olympiads here.</p>
                 <br />
                 <p><i class="fas fa-money-check-alt"></i><b>REGISTRATION FEE:</b> A charge of Rs 99 towards the cost of
@@ -261,11 +255,11 @@
             </div>
             <br>
             <center>
-                    <div>
-                        <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
-                            <b style="text-decoration:none;cursor:pointer;" id="linked-b">Register Now</b>
-                        </div>
+                <div>
+                    <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
+                        <b style="text-decoration:none;">Register Now</b>
                     </div>
+                </div>
             </center>
             <br>
         </div>
@@ -277,12 +271,7 @@
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/smoothscroll.js"></script>
     <script src="js/custom.js"></script>
-    <script>
-        var x = $('b#linked-b').click(()=>{
-            window.location.href="schoolstud.html";
-        });
-        
-    </script>
+
     <script src="backtotop.js"></script>
 </body>
 

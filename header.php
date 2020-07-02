@@ -34,12 +34,20 @@
     </script>
     
     <style amp-custom type="text/css">
+     /* @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap'); */
+     @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+     
      .zoom:hover{
       transform: scale(2.5);
       transition: transform .5s ease;
      }
      a.nav-head{
           font-size:5px;
+     }
+     .navbar-brand
+     {
+          letter-spacing: 1px;
+          font-family: 'Josefin Sans';
      }
     </style>
 

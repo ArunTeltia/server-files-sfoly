@@ -16,14 +16,10 @@
      <link rel="stylesheet" href="css/owl.theme.default.min.css">
      <link rel="stylesheet" href="css/bootstrap.min.css">
      <link rel="stylesheet" href="css/bootstrap.css">
-
-     <!-- MAIN CSS -->
-     <link rel="stylesheet" href="css/base-style.css">
-     <link rel="stylesheet" href="css/olympiad.css">
-     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
      <script async src="https://cdn.ampproject.org/v0.js"></script>
 <link rel="canonical" href="http://example.ampproject.org/article-metadata.html">
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+     <!-- MAIN CSS -->
 <script type="application/ld+json">
       {
         "@context": "http://schema.org",
@@ -35,6 +31,9 @@
         ]
       }
     </script>
+     <link rel="stylesheet" href="css/base-style.css">
+     <link rel="stylesheet" href="css/olympiad.css">
+          <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
       <script>
 $(function(){
 $("#header1").load("header.php");
@@ -47,7 +46,7 @@ $("#footer1").load("footer.php");
       margin-bottom: 40px;
       font-size: 20px;
       margin-top: 10px;
-      /* margin-left: 50px;
+     /*  margin-left: 50px;
       margin-right: 50px;*/
 
     }
@@ -56,88 +55,83 @@ $("#footer1").load("footer.php");
       margin-right: 25px;
      }
     </style>
-
-
-
 </head>
 <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
 
 <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-chevron-up"></i></button>
 
      <!-- MENU -->
-
-    <div id="header1"class="mb-5"></div>
-     <br/><br/><br/><br/><br/>
-
-
-     <img src="images/hgfgj.jpg" class="img-responsive">
-
-
-
-
+     <div id="header1"></div>
+     <br/><br/><br/><br/><br/><br/><br/>
+<h1>&nbsp Springfield International English Olympiad (SIEO)</h1>
 
           <div class="container-fluid" id="olympiad">
-          
-<div class="card">
-    <div class="card-body">
-        <br/>
-        
-                    <p> <i class="fas fa-graduation-cap"></i>The Grads Olympiad is one of its kind Olympiad, specially curated for graduates and undergraduates. This is an online multiple-choice question based Olympiad. </p>
+            <div class="card">
+                <div class="card-body">
                     <br/>
-                    <p> <i class="fas fa-hand-point-right"></i><b>You should apply if you are:</b></p>
-                       <ul>
-                       <li>Preparing for your placements.</li>
-                       <li>Preparing for various B-school entrance exams like CAT, XAT, IIFT, etc.</li>
-                       <li>Keen to test your aptitude skills.</li>
-                       <li>Preparing for any other type of competitive exams like govt. exams.</li><br>
-                       </ul>
-                    <p><i class="fas fa-edit"></i><b>Registration of Students:</b> The Grads Olympiad is open to all. This Olympiad will help all enthusiasts who are preparing for one exam or the other. This Olympiad provides a win-win situation for all the candidates, that can yield fruitful results. Upon successful registration, Springfield Olympiads will register the applicant and the applicant will receive the email regarding guidelines and login credentials for the examination.
-                    <a href="work-grad.html" style="font-style: normal;">Click here to register</a></p>
+            <p> <i class="fas fa-graduation-cap"></i>The <span title="SIEO">Springfield International English Olympiad (SIEO)</span>, a test of competence and knowledge in the subject of English, is held based on syllabus prescribed by CBSE/ ICSE and the State Boards. </p>
+            <br/>
+<p><i class="fas fa-edit"></i><b>Registration of Students:</b> The <abbr title="Springfield International English Olympiad">SIEO</abbr> is open to the students of classes 1 to 12. Schools can submit the registration on our website, alternatively, they can download the offline form too from our website. You can drop a mail to <a>hr@sfoly.com</a> to receive an offline registration form.</p>
 <br/>
-                    <p> <i class="fas fa-book-open"></i><b>Syllabus:</b>  The Olympiad will be divided into 3 sections </p>
-                       <ul>
-                       <li>Basic Quants</li>
-                       <li>Logical Reasoning</li>
-                       <li>Verbal Ability</li>
-                       </ul>
-                    <p>  Each section will have 10 questions, summing to 30 questions.  </p>
-                    <p> The duration of Olympiad is of 1 hour only.  </p>
-                    <p><a href="winners.php">Winners</a></p>
-
- <br/>                   
-                    
-                    <p><i class="fas fa-money-check-alt"></i><b>REGISTRATION FEE:</b>  A nominal fee of INR 99 only is charged to meet ends.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="work-grad.html" style="font-style: normal;">Click here to register</a></p>
-                    <br/>
-<p><i class="fas fa-award"></i><b>PRIZES: </b> </p>
-                       <ul>
-                       <li>All participants will be provided with certificates.</li>
-                       <li>The list of top 3 participants from each state will be displayed on our website. Also, top 10 participants from each state will get Merit Certificates. </li>
-                       <li>The toppers will also get cash prizes.</li>
-                       </ul>
+<p> <i class="fas fa-shipping-fast"></i>Springfield Olympiads will register the applicant school and the students and dispatch question papers and guidelines for conducting the examination. Principals/teachers may please note that any school can be registered as a center for <abbr title="Springfield International English Olympiad">SIEO</abbr>. No fee is required from the institution to become a registered examination center. A minimum of 10 students needs to be registered from each school for <abbr title="Springfield International English Olympiad">SIEO</abbr>.</p>
 <br/>
-<p><i class="fas fa-money-check-alt"></i><b>Date of exam:</b>  The Olympiad window will be open from The Olympiad will be conducted on October 18, 2020 (IST), and can be given via mobile, tablet or PC.</p><br><br>
-<center><div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkbrT6qCecWwRx/view" data-text="Register Now" data-color="#002992" data-size="medium">
-  <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
-                        <b style="text-decoration:none;cursor:pointer;" id="linked-b">Register Now</b>
-                        </div>
-                    </div>
-</div></center>
-</div></div>
 
+<p><i class="fas fa-user-alt-slash"></i>Students should register through their respective schools only. Individual registrations by students are <b>not</b> accepted.</p>
 
+<br/>
+
+<p><i class="fas fa-money-check-alt"></i><b>REGISTRATION FEE:</b> A charge of Rs 100 towards the cost of examination is payable by each participating student. Further, the school may collect an amount upto Rs 20 per student towards honorarium of incharge, remuneration to teachers to teach, guide and other miscellaneous expenses.</p>
+<br/>
+<p><i class="fas fa-award"></i><b>AWARDS:</b>For the academic year 2019-20, Springfield Olympiads will spend over Rs. 5,00,000 on awards, Scholarships, gifts & felicitations etc.</p>
+<br/>
+</div>
+</div>
+<div class="container">
+<table class="table table-striped" >
+  <thead>
+    <tr>
+      <th scope="col">Position</th>
+      <th scope="col">Prize</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rank 1 in State of Rajasthan</td>
+      <td>Rs.2000/- Each + Gold Medal*+ Certificate of Zonal Excellence</td>
+    </tr>
+     <tr>
+      <td>Rank 2 in State of Rajasthan</td>
+      <td>Rs.1500/- Each + Gold Medal*+ Certificate of Zonal Excellence</td>
+    </tr>
+     <tr>
+      <td>Rank 3 in State of Rajasthan</td>
+      <td>Rs.1000/- Each + Gold Medal*+ Certificate of Zonal Excellence</td>
+    </tr>
+    <tr>
+      <td>Rank 4-10 in State of Rajasthan</td>
+      <td>Gifts Worth Rs.1000/- Each + *Medal of Distinction + *Certificate of Distinction</td>
+    </tr>
+     <tr>
+      <td>Rank 11+ in State of Rajasthan</td>
+      <td>Certificate of participation</td>
+    </tr>
+    
+  </tbody>
+</table>
+
+<p>Each Student will also get a Performance Report </p>
+<p style="font-size: 10px;">*Awards can be changed without prior notice.</p>
+</div>
           </div>
- <div id="footer1"></div>
+
+<div id="footer1"></div>
+
      <script src="js/jquery.js"></script>
      <script src="js/bootstrap.min.js"></script>
      <script src="js/owl.carousel.min.js"></script>
      <script src="js/smoothscroll.js"></script>
      <script src="js/custom.js"></script>
+
      <script src="backtotop.js"></script>
-      <script>
-        var x = $('#linked-b').click(()=>{
-            window.location.href="workgrad.html";
-        });
-        
-    </script>
-</body>
-</html>
+     </body>
+     </html>

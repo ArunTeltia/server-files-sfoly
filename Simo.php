@@ -147,7 +147,7 @@
                 <br />
                 <p><i class="fas fa-edit"></i><b>Registration of Students:</b> The <abbr
                         title="Springfield International Maths Olympiad">SIMO</abbr> is open to the students of classes
-                    3 to 12. Students can register themselves on our website by clicking <a href="http://13.232.170.48:8000/school-student/"
+                    3 to 12. Students can register themselves on our website by clicking <a href="schoolstud.html"
                         style="text-decoration:none;">here.</a></p>
                 <br />
                 <p> <i class="fas fa-shipping-fast"></i>Students should register through online mode only. Please check
@@ -255,7 +255,7 @@
             <center>
                     <div>
                         <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
-                            <b style="text-decoration:none;">Register Now</b>
+                        <b style="text-decoration:none;cursor:pointer;" id="linked-b">Register Now</b>
                         </div>
                     </div>
             </center>
@@ -270,8 +270,8 @@
     <script src="js/smoothscroll.js"></script>
     <script src="js/custom.js"></script>
     <script>
-        var x = $('b').click(()=>{
-            window.location.href="http://13.232.170.48:8000/school-student/";
+        var x = $('b#linked-b').click(()=>{
+            window.location.href="schoolstud.html";
         });
         
     </script>

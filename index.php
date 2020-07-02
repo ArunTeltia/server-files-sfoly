@@ -78,6 +78,9 @@ transition: transform .5s ease;
     {
          margin-left:25%;
     }
+    #home{
+         margin-top: -15px;
+    }
 </style>
 <script type="text/javascript">  
 </script>
@@ -164,7 +167,7 @@ transition: transform .5s ease;
         </div>
      </section> 
 
-     <marquee><a href="exam-schedule.html">Schedule</a> of Olympiads for 2020-21 has been announced. <a href="regurschool.php">Click here to register</a></marquee>
+     <marquee><a href="exam-schedule.html">Schedule of Olympiads for 2020-21 has been announced.</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="register.html">Click here to register</a></marquee>
 
 
      <br/>
