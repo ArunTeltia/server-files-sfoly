@@ -46,6 +46,7 @@ $("#footer1").load("footer.php");
 });
     </script>
 <style type="text/css">
+     @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
   .card{
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       margin-bottom: 40px;
@@ -81,6 +82,11 @@ transition: transform .5s ease;
     #home{
          margin-top: -15px;
     }
+    .navbar-brand
+     {
+          letter-spacing: 1px;
+          font-family: 'Josefin Sans';
+     }
 </style>
 <script type="text/javascript">  
 </script>
@@ -475,7 +481,7 @@ transition: transform .5s ease;
                               </ul>
                               <br/><br/>
                               
-                               <a  id="Register" href="regurschool.php" >Register</a>
+                               <a  id="Register" href="register.html" >Register</a>
                          </div>
                     </div>
                     

@@ -38,7 +38,7 @@
                                    <li><a href="https://www.instagram.com/sfolym/" ><i class="fab fa-instagram"></i></a></li>
                               </ul>
                               <br/>
-                               <a id="Register" href="regurschool.php" >Register</a>
+                               <a id="Register" href="register.html" >Register</a>
                          </div>
                     </div>
 

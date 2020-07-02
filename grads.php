@@ -55,6 +55,9 @@ $("#footer1").load("footer.php");
       margin-left: 25px;
       margin-right: 25px;
      }
+     #main-img{
+       margin-top:-45px;
+     }
     </style>
 
 
@@ -70,7 +73,7 @@ $("#footer1").load("footer.php");
      <br/><br/><br/><br/><br/>
 
 
-     <img src="images/hgfgj.jpg" class="img-responsive">
+     <img src="images/hgfgj.jpg" id="main-img" class="img-responsive">
 
 
 
@@ -196,7 +199,9 @@ $("#footer1").load("footer.php");
                 <h5>*Awards can be changed without prior notice.</h5>
             </div>
 <br/>
+
 <p><i class="fas fa-money-check-alt"></i><b>Date of exam:</b>   The Olympiad will be conducted on October 18, 2020 (IST), and can be given via mobile, tablet or PC.</p><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="winners.php">Previous Winners</a>
 <center><div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkbrT6qCecWwRx/view" data-text="Register Now" data-color="#002992" data-size="medium">
   <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
                         <b style="text-decoration:none;cursor:pointer;" id="linked-b">Register Now</b>

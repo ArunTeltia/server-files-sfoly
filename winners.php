@@ -115,7 +115,7 @@ $("#footer1").load("footer.php");
         <br/>
         
        <p style="text-align:center; font-weight: bold;">More than 5500 participants from 350+ institutes and 70+ MNCs participated in Grads Olympiad. We congratulate the winners. The winners will be contacted directly for the distribution of Prizes and Certificates.</p>
-<p style="text-align:center; font-weight: bold;"><a href="https://pilot1.conductexam.in/" style="font-style: normal;">Click here to download certificates and view results. </a></p><br>
+<p style="text-align:center; font-weight: bold;"><a href="https://pilot1.conductexam.in/" style="font-style: normal;">The Olympiad was conducted on May 16, 2020 </a></p><br>
 
 <h2><center> National Winners </center></h2>
 
