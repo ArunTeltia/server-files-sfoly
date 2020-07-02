@@ -92,7 +92,7 @@ $("#footer1").load("footer.php");
                        <li>Preparing for any other type of competitive exams like govt. exams.</li><br>
                        </ul>
                     <p><i class="fas fa-edit"></i><b>Registration of Students:</b> The Grads Olympiad is open to all. This Olympiad will help all enthusiasts who are preparing for one exam or the other. This Olympiad provides a win-win situation for all the candidates, that can yield fruitful results. Upon successful registration, Springfield Olympiads will register the applicant and the applicant will receive the email regarding guidelines and login credentials for the examination.
-                    <a href="work-grad.html" style="font-style: normal;">Click here to register</a></p>
+                    <a href="workgrad.html" style="font-style: normal;">Click here to register</a></p>
 <br/>
                     <p> <i class="fas fa-book-open"></i><b>Syllabus:</b>  The Olympiad will be divided into 3 sections </p>
                        <ul>
@@ -102,20 +102,101 @@ $("#footer1").load("footer.php");
                        </ul>
                     <p>  Each section will have 10 questions, summing to 30 questions.  </p>
                     <p> The duration of Olympiad is of 1 hour only.  </p>
-                    <p><a href="winners.php">Winners</a></p>
+                    
 
  <br/>                   
                     
-                    <p><i class="fas fa-money-check-alt"></i><b>REGISTRATION FEE:</b>  A nominal fee of INR 99 only is charged to meet ends.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="work-grad.html" style="font-style: normal;">Click here to register</a></p>
-                    <br/>
-<p><i class="fas fa-award"></i><b>PRIZES: </b> </p>
-                       <ul>
-                       <li>All participants will be provided with certificates.</li>
-                       <li>The list of top 3 participants from each state will be displayed on our website. Also, top 10 participants from each state will get Merit Certificates. </li>
-                       <li>The toppers will also get cash prizes.</li>
-                       </ul>
+                    <p><i class="fas fa-money-check-alt"></i><b>REGISTRATION FEE:</b>  A nominal fee of INR 99 only is charged to meet ends.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="workgrad.html" style="font-style: normal;">Click here to register</a></p>
+                    <br/>  <p><i class="fas fa-award"></i><b>AWARDS:</b> For the academic year 2020-21, Springfield Olympiads will
+                    spend over Rs. 15,00,000 on awards, Scholarships, gifts & felicitations etc.
+                </p>
+                <br />
+                <br>
+                <table class="table table-bordered table-striped" border="1" cellpadding="0" cellspacing="0"
+                    class="table" style="width: 100%;">
+                    <tbody>
+                        <tr
+                            style="color:#2d92d6; font-size:25px; font-family:Oswald, sans-serif; font-weight: normal; line-height: 1.2em; margin: 0 0 1em; text-transform: uppercase;">
+                            <td class="rtecenter" style="align-items: center" colspan="2">
+                                <center><b>At National Level</b></center>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>
+
+                                        Rank 1</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Rs. 10000/- Each + Gold Medal+ Certificate of Excellence</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>Rank 2</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Rs. 7500/- Each + Silver Medal*+ Certificate of Excellence</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>Rank 3</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Rs. 5000/- Each + Bronze Medal*+ Certificate of Excellence</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <br>
+                <br>
+                <table class="table table-bordered table-striped" border="1" cellpadding="0" cellspacing="0"
+                    class="table" style="width: 100%;">
+                    <tbody>
+                        <tr
+                            style="color:#2d92d6; font-size:25px; font-family:Oswald, sans-serif; font-weight: normal; line-height: 1.2em; margin: 0 0 1em; text-transform: uppercase;">
+                            <td class="rtecenter" style="align-items: center" colspan="2">
+                                <center><b>At State Level</b></center>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>
+                                        Rank 1-3 in State</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Gifts Worth Rs.1000/- Each + Medal of Distinction + Certificate of Distinction</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>Rank 4-10 in State</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Gifts Worth Rs.500/- Each + Medal of Distinction + Certificate of Distinction</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td nowrap="nowrap" style="width:76px;height:20px;">
+                                <p><strong>Rank 11-25 in State</strong></p>
+                            </td>
+                            <td nowrap="nowrap" style="width:132px;height:20px;">
+                                <p>Certificate of Distinction</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>Certificate of participation will be awarded to all. Detailed analysis reports will also be
+                    provided.</p>
+                <h5>*Awards can be changed without prior notice.</h5>
+            </div>
 <br/>
-<p><i class="fas fa-money-check-alt"></i><b>Date of exam:</b>  The Olympiad window will be open from The Olympiad will be conducted on October 18, 2020 (IST), and can be given via mobile, tablet or PC.</p><br><br>
+<p><i class="fas fa-money-check-alt"></i><b>Date of exam:</b>   The Olympiad will be conducted on October 18, 2020 (IST), and can be given via mobile, tablet or PC.</p><br><br>
 <center><div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkbrT6qCecWwRx/view" data-text="Register Now" data-color="#002992" data-size="medium">
   <div style="width:180px; height:40px; color:white; padding:5px; background-color:darkblue;">
                         <b style="text-decoration:none;cursor:pointer;" id="linked-b">Register Now</b>
